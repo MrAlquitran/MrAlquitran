@@ -1,0 +1,4 @@
+- Hi, I’m Pablo Peregrina Martín, I mostly write JavaScript and HTML these days.
+- I’m currently learning JS, CSS, PHP.
+- If you are willing to get in touch with me, you can send an email to "pablopemar11@gmail.com".
+- Also interested in video and photo editing ;).
