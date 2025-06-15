@@ -1,4 +1,4 @@
-- Hi, I’m Pablo Peregrina Martín, I mostly write JavaScript and HTML these days.
-- I’m currently learning JS, CSS, PHP.
+- Hi, I’m Pablo Peregrina Martín, I love JS and some of his frameworks like VueJs, ReactJs or NodeJs. I LOVE JS.
+- I’m still learning JS, CSS and PHP. Very fluid on Sass, plain CSS and a little bit of Bootstrap.
 - If you are willing to get in touch with me, you can send an email to "pablopemar11@gmail.com".
 - Also interested in video and photo editing ;).
